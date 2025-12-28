@@ -1,0 +1,8 @@
+{
+  "name": "Nexus - Meta WhatsApp Business Suite",
+  "description": "A high-performance bulk messaging and automation platform built for Meta WhatsApp Business API. Featuring AI-powered campaign personalization, robust analytics, and automated flow management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
